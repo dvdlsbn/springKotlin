@@ -1,4 +1,4 @@
-package com.example.springkotlin
+package com.example.springkotlin.controllers
 
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
